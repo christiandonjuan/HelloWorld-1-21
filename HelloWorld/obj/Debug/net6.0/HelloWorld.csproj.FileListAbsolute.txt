@@ -1,0 +1,15 @@
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
